@@ -9,11 +9,11 @@ title: "Voter Registration and Election Information"
 
 ### Voter Registration
 
-* As soon as possible, please visit the <a href="https://www.usa.gov/voter-registration">US Voter Registration website</a> to manage your voter profile. 
+* As soon as possible, please visit the <a href="https://www.usa.gov/voter-registration">US voter registration website</a> to manage your voter profile. 
 
-  1. If you have never registered to vote, please do so.
-  1. If you are unsure if you have registered to vote, please confirm.
-  1. If you have recently moved addresses, please update your information.
+  1. If you have never registered to vote, please do so. It is a foundational component to a functioning democracy. It is also a fundamental right that many had to fight against prejudice to receive. 
+  1. If you are unsure if you have registered to vote, please confirm. It takes less than a few minutes to do, and ensures that you are positioned to vote.
+  1. If you have recently moved addresses, please update your information. Especially for those who vote by mail, failing to update your new address could affect your ability to send in your vote by the designated deadline.
 
 ___
 
