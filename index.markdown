@@ -12,8 +12,8 @@ title: "Voter Registration and Election Information"
 * As soon as possible, please visit the <a href="https://www.usa.gov/voter-registration">US Voter Registration website</a> to manage your voter profile. 
 
 1. If you have never registered to vote, please do so.
-2. If you are unsure if you have registered to vote, please confirm.
-3. If you have recently moved addresses, please update your information.
+1. If you are unsure if you have registered to vote, please confirm.
+1. If you have recently moved addresses, please update your information.
 
 Presidential primary election dates
 Presidential election dates
