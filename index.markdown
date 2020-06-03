@@ -15,6 +15,8 @@ title: "Voter Registration and Election Information"
   1. If you are unsure if you have registered to vote, please confirm.
   1. If you have recently moved addresses, please update your information.
 
+___
+
 ### Primary Elections & Caucuses
 
 State | Date
@@ -31,7 +33,7 @@ Louisiana | 7/11/2020
 Puerto Rico (Democratic) | 7/12/2020
 Connecticut | 8/11/2020
 
-_______________________
+
 
 ### National Conventions
 
@@ -40,13 +42,13 @@ Location | Dates
 Milwaukee, WI (Democratic) | 8/17/2020 to 8/20/2020
 Milwaukee, WI (Republican) | 8/24/2020 to 8/27/2020
 
-_______________________
 
-### Presidential Election Day: 11/3/2020
 
-_______________________
+#### Presidential Election Day: 11/3/2020
 
-* As important as the Presidential election is (and it is *very* important), take the time to <a href="https://www.usa.gov/election-office">research your state and local election options as well</a>. These are the representatives you can elect so that your voice can be heard in Washington, D.C. They are also responsible for countless decisions that affect your very own community, from education to public safety. 
+___
+
+As important as the Presidential election is (and it is *very* important), take the time to <a href="https://www.usa.gov/election-office">research your state and local election options as well</a>. These are the representatives you can elect so that your voice can be heard in Washington, D.C. They are also responsible for countless decisions that affect your very own community, from education to public safety. 
 
 State election dates
 
