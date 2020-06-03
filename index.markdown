@@ -19,7 +19,7 @@ title: "Voter Registration and Election Information"
 
 State | Date
 ------------ | -------------
-Virgin Islands (Democratic)* | 6/6/2020
+Virgin Islands (Democratic) | 6/6/2020
 Puerto Rico (Republican) | 6/7/2020
 Georgia | 6/9/2020
 West Virginia | 6/9/2020
@@ -30,8 +30,7 @@ New Jersey | 7/7/2020
 Louisiana | 7/11/2020
 Puerto Rico (Democratic) | 7/12/2020
 Connecticut | 8/11/2020
-
-* Caucus
+_______________________
 
 #### National Conventions
 
@@ -39,11 +38,10 @@ Location | Dates
 ------------ | -------------
 Milwaukee, WI (Democratic) | 8/17/2020 to 8/20/2020
 Milwaukee, WI (Republican) | 8/24/2020 to 8/27/2020
+_______________________
 
 #### Presidential Election Day: 11/3/2020
-
-Presidential primary election dates
-Presidential election dates
+_______________________
 
 * As important as the Presidential election is (and it is *very* important), take the time to <a href="https://www.usa.gov/election-office">research your state and local election options as well</a>. These are the representatives you can elect so that your voice can be heard in Washington, D.C. They are also responsible for countless decisions that affect your very own community, from education to public safety. 
 
