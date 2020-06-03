@@ -7,7 +7,7 @@ title: "Voter Registration and Election Information"
 
 Return to <a href="https://vocalmajority.github.io/about/">about</a>.
 
-*This list is intended to be comprehensive but understand that there could be many others not included. If there is something missing, please make a pull request on the [github repository](https://github.com/wa-hans/becoming-an-ally.github.io).*
+*This list is not comprehensive, but hopefully can act as a starting point. For anybody looking to add an organization that is not already included, please make a pull request on the [github repository](https://github.com/vocalmajority).*
 
 ### Voter Registration
 
