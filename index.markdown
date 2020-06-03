@@ -44,7 +44,7 @@ Milwaukee, WI (Republican) | 8/24/2020 to 8/27/2020
 
 
 
-## Presidential Election Day: 11/3/2020
+### Presidential Election Day: 11/3/2020
 
 ___
 
