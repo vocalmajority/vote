@@ -3,7 +3,7 @@ layout: default
 title: "Voter Registration and Election Information"
 ---
 
-## Resources are provided below to help individuals register to vote, stay updated on election information (e.g., dates), and learn how they can affect the political change they want to see.
+## Resources are provided below to help individuals understand their voter rights and important upcoming election dates and information.
 
 *This list is intended to be comprehensive but understand that there could be many others not included. If there is something missing, please make a pull request on the [github repository](https://github.com/wa-hans/becoming-an-ally.github.io).*
 
