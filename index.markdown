@@ -5,6 +5,8 @@ title: "Voter Registration and Election Information"
 
 ## Resources are provided below to help individuals understand their voter rights and important upcoming election dates and information.
 
+Return to <a href="https://vocalmajority.github.io/about/">about</a>.
+
 *This list is intended to be comprehensive but understand that there could be many others not included. If there is something missing, please make a pull request on the [github repository](https://github.com/wa-hans/becoming-an-ally.github.io).*
 
 ### Voter Registration
