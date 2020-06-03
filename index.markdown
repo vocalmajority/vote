@@ -191,4 +191,4 @@ __Voter Intimidation (Voter Suppression)__: An attempt to prevent eligible peopl
 
 __Voting Guide__: Information about candidates and issues in an upcoming election. Guides can be published by political parties, organizations, or other groups. They may be non-partisan or may favor a particular party or viewpoint.
 
-*Source: <a href="https://www.usa.gov/voting-and-election-definitions"</a>*
+*Source: <a href="https://www.usa.gov/voting-and-election-definitions">U.S. Government: Voting & Election Definitions</a>*
