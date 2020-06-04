@@ -94,7 +94,7 @@ Here are some District Attorney candidates running this year that you can suppor
 
 * <a href="https://www.georgegascon.org/">__George Gascon__</a> (Los Angeles) is a reform candidate who’s been endorsed by the CA Black Women’s Democratic Club and Color of Change. Read more <a href="https://votingwhileblack.com/color-of-change-pac-endorses-george-gascon-for-los-angeles-county-district-attorney/">here</a>. You can also <a href="https://secure.actblue.com/donate/george-gascon-for-la-district-attorney-2020-1">donate</a> or <a href="https://georgegascon.nationbuilder.com/volunteer">volunteer</a> for his campaign. 
 
-* __Fanon Rucker__ (Cincinnati, OH) is running on a platform advocating for anti-recidivism programs and opposition to the death penalty. Rucker has been endorsed by the Hamilton County Democratic Party and Equality Cincinnati. Read more about Rucker here. You can also volunteer or donate to his campaign. 
+* <a href="https://www.wvxu.org/post/fanon-rucker-set-take-joe-deters-hamilton-county-prosecutor-november#stream/0">__Fanon Rucker__</a> (Cincinnati, OH) is running on a platform advocating for anti-recidivism programs and opposition to the death penalty. Rucker has been endorsed by the Hamilton County Democratic Party and Equality Cincinnati. You can also <a href="https://fanonrucker.com/get-involved/">volunteer</a> or <a href="https://secure.actblue.com/donate/committee-to-elect-fanon-rucker-1">donate</a> to his campaign. 
 
 ### Common Voting and Election Terms
 
