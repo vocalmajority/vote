@@ -80,6 +80,22 @@ You can find your state or local election office website <a href="https://www.us
 
 ___
 
+### Elected Officials
+
+*__District Attorney__*: District attorneys and other elected prosecutors decide who to charge and with what crimes, including police officers.
+
+*__Mayor__*: Mayors often choose local police chiefs who oversee the operations and budget of their police department. Police chiefs set the tone for how their officers behave. Additionally, some mayors have the ability to veto laws and ordinances from their city councils, which means they can block support for police reform legislation. 
+
+*__Sheriff__*: Sheriffs are similar to police chiefs, but operate at the county level and are directly elected by voters. They manage a department of sheriff deputies that are county level law enforcement. 
+
+*__City Councilmembers__*: City councils are local legislative bodies that pass local laws and ordinances, including the creation of community-based Police Accountability Boards and other measures to increase police accountability. 
+
+Here are some District Attorney candidates running this year that you can support to hold police accountable. 
+
+* <a href="https://www.georgegascon.org/">__George Gascon__</a> (Los Angeles) is a reform candidate who’s been endorsed by the CA Black Women’s Democratic Club and Color of Change. Read more <a href="https://votingwhileblack.com/color-of-change-pac-endorses-george-gascon-for-los-angeles-county-district-attorney/">here</a>. You can also <a href="https://secure.actblue.com/donate/george-gascon-for-la-district-attorney-2020-1">donate</a> or <a href="https://georgegascon.nationbuilder.com/volunteer">volunteer</a> for his campaign. 
+
+* __Fanon Rucker__ (Cincinnati, OH) is running on a platform advocating for anti-recidivism programs and opposition to the death penalty. Rucker has been endorsed by the Hamilton County Democratic Party and Equality Cincinnati. Read more about Rucker here. You can also volunteer or donate to his campaign. 
+
 ### Common Voting and Election Terms
 
 __Absentee Ballot__: A ballot filed by a voter who cannot be present at their polling place on Election Day. Absentee ballots are often filed by people who are:
